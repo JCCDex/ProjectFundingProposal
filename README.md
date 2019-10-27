@@ -34,3 +34,7 @@ Telegram: https://t.me/moacblockchain
 提案发起（Submit proposal）： https://github.com/JCCDex/ProjectFundingProposal/issues
 
 资金钱包（Fund wallet）: [jB24RRYtoXViU3Gxvki6xZYK9PaaTjG5MY](https://swtcscan.jccdex.cn/#/wallet/?wallet=jB24RRYtoXViU3Gxvki6xZYK9PaaTjG5MY)
+
+## [项目成果](curated.md)
+
+## [项目进度](progress.md)
