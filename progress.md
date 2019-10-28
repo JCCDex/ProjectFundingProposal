@@ -3,14 +3,15 @@
 | 项目           | ISSUE# | 负责人 | 验收人 | 进展% | 日期  |
 |----------------|--------|--------|--------|-------|-------|
 | PFP24 BAAS平台 | 25     | 中阳   |        | 0%    | 10/28 |
-| PFP01 swtclib更新 | 32 | lospring|        | 80%   | 10/28 |
-| PFP01 swtclib更新 | 32 | lospring|        | 60%   | 10/20 |
-| PFP01 swtclib更新 | 32 | lospring|        | 45%   | 08/30 |
-| PFP01 swtclib更新 | 32 | lospring|        | 30%   | 07/30 |
-| PFP01 swtclib更新 | 32 | lospring|        | 15%   | 06/30 |
-| PFP19 墨客锁仓 | 20 | libra      |        | 75%   | 10/27 |
-| PFP17 RUST     | 18 | 美丽的流域 | FeiPengZheng | 95%   | 10/24 |
+| PFP20 keystore破解 | 21 | 陈峰   |        | 50%   | 10/28 |
+| PFP22 墨客投票 | 23     | 陈峰   |        | 70%   | 10/28 |
+| PFP01 swtclib更新 | 32  | lospring|        | 80%   | 10/28 |
+| PFP01 swtclib更新 | 32  | lospring|        | 60%   | 10/20 |
+| PFP01 swtclib更新 | 32  | lospring|        | 45%   | 08/30 |
+| PFP01 swtclib更新 | 32  | lospring|        | 30%   | 07/30 |
+| PFP01 swtclib更新 | 32  | lospring|        | 15%   | 06/30 |
+| PFP19 墨客锁仓 | 20  | libra      |        | 75%   | 10/27 |
+| PFP17 RUST     | 18  | 美丽的流域 | FeiPengZheng | 95%   | 10/24 |
 | PFP05 钱包     | 5      | 北森林 |        | 85%   | 10/24 |
-| PFP20 keystore破解 | 21 | 陈峰   |        | 60%   | 09/24 |
-| PFP06 短信预警 | 7      | 小游戏 |        | ?     | 08/19 |
-| PFP23 墨客一键商务 | 24 | 北森林 |        | ?     |       |
+| PFP06 短信预警 | 7      | 小游戏 |        |       | 08/19 |
+| PFP23 墨客一键商务 | 24 | 北森林 |        |       |       |
