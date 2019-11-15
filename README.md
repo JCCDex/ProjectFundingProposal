@@ -1,18 +1,19 @@
 # Project Funding Proposal 项目资助提案
 
-[SWTC](http://www.swtc.top/#/) &amp; [MOAC](https://www.moac.io/) Project Funding Proposal 
+[SWTC](http://www.swtc.top/#/) &amp; [MOAC](https://www.moac.io/) Project Funding Proposal
 [SWTC](http://www.swtc.top/#/) &amp; [MOAC](https://www.moac.io/) 项目资助提案
 
-Anyone can initiate project proposals on two public chains at [issue] (https://github.com/JCCDex/Project Funding Proposal/issues), discuss them and seek funding.
+Anyone can initiate project proposals on two public chains at [issue](https://github.com/JCCDex/ProjectFundingProposal/issues), discuss them and seek funding.
 
-任何人都可以在[issue](https://github.com/JCCDex/ProjectFundingProposal/issues)发起两条公链上的项目提案，并进行讨论，并寻求资助。 
+任何人都可以在[issue](https://github.com/JCCDex/ProjectFundingProposal/issues)发起两条公链上的项目提案，并进行讨论，并寻求资助。
 
 Funding sources are provided by SWTC and the MOAC Foundation.
 
 资助的资金来源由SWTC和MOAC基金会提供。
 
 # Guiding Principles 指导性原则
-We cannot predict which application or project will succeed. We are willing to help and explore more possibilities. The goal of this funding proposal is to encourage and support DAPP developers and community activities. 
+
+We cannot predict which application or project will succeed. We are willing to help and explore more possibilities. The goal of this funding proposal is to encourage and support DAPP developers and community activities.
 
 我们没有能力判断哪一种应用或者目标会成功，我们愿意做更多的尝试，探索更多的可能，基金会的目标是鼓励和支持社区的开发活动。
 
