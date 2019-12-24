@@ -6,7 +6,7 @@
 | PFP31 移植ENS核心部分服务到墨客链上 | 31      | 井畅 qq:komantian@qq.com  |        |      |        | 2019/12/9 |
 | PFP30 ed25519 在井通上的支持情况 | 28      | lospring   |      |      |        | 11/19 |
 | PFP29 基于区块链的商城APP | 36      | 小游戏   | 100%    |丿小丶灬 |     100%      | 2019/12/9 |
-| PFP28 开发基于swtc-lib的swtc-api服务 | 37      | lospring   |    100%      |       |        | 11/19 |
+| PFP28 开发基于swtc-lib的swtc-api服务 | 37      | lospring   |    100%      |  招募中     |        | 11/19 |
 | PFP27 基于PFP05 SWTC钱包开发DAPP | 35      | 北森林  qq:1205735605  |   90%     |       |        | 11/19 |
 | PFP26 开发一个朴素的预言机 | 27      | 井畅 qq:komantian@qq.com  |        |       |        | 10/14 |
 | PFP25 JingtumMask2.0提供与dapp交互的能力 | 26      | luozb   |        |       |        | 10/14 |
@@ -15,4 +15,4 @@
 | PFP17 RUST     | 18  | 美丽的流域  |  100%       |FeiPengZheng |   100%       | 2019/12/9 |
 | PFP06 短信预警 | 7      | 小游戏   | 100% |   未确定    |       | 11/30 |
 | PFP05 钱包     | 5      | 北森林  qq:1205735605  |  95%       |   |        | 11/15 |
-| PFP01 swtclib更新 | 32  | lospring |  100%      |   |        | 10/30 |
+| PFP01 swtclib更新 | 32  | lospring |  100%      | 招募中  |        | 10/30 |
