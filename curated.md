@@ -11,3 +11,4 @@
 | PFP22 墨客链投票系统      | [源代码](https://github.com/gaoshan-tech/moacVote) [Demo](http://47.92.110.121/voteApp)|
 | PFP27 SWTC钱包风险提示合约| [源代码](https://github.com/JCCDex/swtc-account-credit)|
 | PFP 29 基于区块链的商城APP| [源代码](https://github.com/baibingB/SWTC_PGShop) [Proposal](https://github.com/JCCDex/ProjectFundingProposal/issues/36)|
+| PFP30: ed25519 在井通上的支持情况|  [Proposal](https://github.com/JCCDex/ProjectFundingProposal/issues/28) [验证结论](https://github.com/zcZhang123/PFP30)|
